@@ -1,5 +1,5 @@
 # Quadcopter_Capstone
-Capstone project for Udacity Advanced Machine Learning nanodegree
+Capstone project for Udacity Advanced Machine Learning nanodegree.  THIS IS A DRAFT!  THE PROJECT PROPOSAL HAS NOT YET BEEN SUBMITTED AND THE CODE ISN'T WORKING!
 
 # Quadcopter
 Quadcopter project for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
